@@ -1,0 +1,5 @@
+name,balance,rails,table
+Alice,-100.00,venmo,T1
+Bob,30.00,venmo|zelle,T1
+Carol,30.00,zelle,T1
+David,40.00,venmo|zelle,T1
